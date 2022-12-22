@@ -35,4 +35,3 @@ The goal of the project for me:
 - Add database connection [MongoDb]
 - More to development to be added.
 - Update CSS with some [Styled-Components](https://styled-components.com/)
-- Update with [React](https://reactjs.org/)
