@@ -24,3 +24,15 @@
   margin-right: 7px;
   color: #dadada;
 }
+
+.card {
+  display: flex;
+  width: 470px;
+  height: 168px;
+  margin: 0 auto;
+}
+.card--img {
+  width: 125px;
+  height: 168px;
+  border-radius: 5px;
+}
