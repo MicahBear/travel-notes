@@ -16,3 +16,11 @@
   line-height: 17.5px;
   letter-spacing: -7.5%;
 }
+.header--icon {
+  justify-content: center;
+  align-items: center;
+  width: 16px;
+  height: 16px;
+  margin-right: 7px;
+  color: #dadada;
+}
