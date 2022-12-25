@@ -7,8 +7,10 @@ export default function Card(props) {
     <div className="card">
       <img className="card--img" src={`../src/images/${props.card.imageUrl}`} />
       <div className="info">
-        <span className="info--location">{props.card.location}</span>
-        <a className="info--map">View on Google Maps</a>
+        <div className="info--location--map">
+          <span className="info--location">{props.card.location}</span>
+          <a className="info--map">View on Google Maps</a>
+        </div>
         <h2 className="info--title">{props.card.title}</h2>
         <span className="info--date">
           {props.card.startDate} - {props.card.endDate}
