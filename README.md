@@ -32,6 +32,8 @@ The goal of the project for me:
 ### Continued development
 
 - Add multer for upload of images
+- Add icons
+- Add link effect from CSS
 - Add ability to edit
 - Add database connection [MongoDb]
 - Subscription for followers
